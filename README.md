@@ -5,7 +5,8 @@ Ideas:
 	One-to-one communication
   One-to-all communication
   Transfer Messages and files
-OBJECTIVE
+
+OBJECTIVE:
   To create an application that runs over the UDP connection and enables the users to transfer messages as well as files.
 
 SOFTWARES REQUIRED:
